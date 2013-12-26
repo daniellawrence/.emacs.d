@@ -31,8 +31,8 @@ important.
 Here's a list of some small features added by `init.el` or
 `extras.el`.
 
-* <kbd>M-<up></kbd> -- Move the current line up.
-* <kbd>M-<down></kbd> -- Move the current line down.
+* <kbd>M-▲</kbd> -- Move the current line up.
+* <kbd>M-▼</kbd> -- Move the current line down.
 * <kbd>C-x !</kbd> -- Insert a UUID.
 * <kbd>C-x ~</kbd> -- Set the current buffer to 80 columns.
 * <kbd>C-c r</kbd> -- Insert random number.
